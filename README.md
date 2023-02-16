@@ -1,1 +1,2 @@
 # JJunction_simulation
+This package of python code is used for simulating Josephson Juctions using Kwant package (with the document here https://kwant-project.org). The first folder test is a few test script directly copied or slightly modified from the document. The second folder of JJ consists of several samples of code to simulated Josephson Juction (one piece of normal metal sandwiched by two pieces of Superconductors).
