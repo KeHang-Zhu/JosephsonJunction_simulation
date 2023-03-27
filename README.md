@@ -7,7 +7,9 @@ The second folder of JJ consists of several samples of code to simulated Josephs
 
 1 flux quantum state!
 
-<img width="218" alt="image" src="https://user-images.githubusercontent.com/72799310/227816253-feebdea4-04c1-45cb-bd5b-1ad8d5d67ce8.png">
-<img width="218" alt="image" src="https://user-images.githubusercontent.com/72799310/227816271-473966a4-84d9-4783-b606-5dbf734b70f5.png">
-<img width="218" alt="image" src="https://user-images.githubusercontent.com/72799310/227816291-2241a71b-ddc8-4967-93ca-0ea00728a3ac.png">
+<img width="218" alt="image" src="https://user-images.githubusercontent.com/72799310/227816253-feebdea4-04c1-45cb-bd5b-1ad8d5d67ce8.png"> Phase difference between two metal $\phi = 0$
+
+<img width="218" alt="image" src="https://user-images.githubusercontent.com/72799310/227816271-473966a4-84d9-4783-b606-5dbf734b70f5.png"> Phase difference  between two metal $\phi = \pi/2$
+
+<img width="218" alt="image" src="https://user-images.githubusercontent.com/72799310/227816291-2241a71b-ddc8-4967-93ca-0ea00728a3ac.png"> Phase difference between two metal $\phi = \pi$
 
