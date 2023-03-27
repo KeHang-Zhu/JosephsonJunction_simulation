@@ -1,5 +1,5 @@
-# JJunction_simulation
-This package of python code is used for simulating Josephson Juctions using Kwant package (with the document here https://kwant-project.org). 
+# JosephsonJunction_simulation
+This package of python code is used for simulating Josephson Juctions with tight-binding model using Kwant package (with the document here https://kwant-project.org). 
 
 The first folder test is a few test script directly copied or slightly modified from the document. 
 
